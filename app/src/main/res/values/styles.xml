@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ScreenTitleStyle">
+        <item name="android:layout_margin">@dimen/normal_margin</item>
+        <item name="android:textSize">@dimen/screen_title_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="GreetingTextStyle">
+        <item name="android:layout_margin">@dimen/normal_margin</item>
+        <item name="android:textSize">@dimen/greeting_title_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MedicationItemTextStyle">
+        <item name="android:textSize">@dimen/medication_list_item_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

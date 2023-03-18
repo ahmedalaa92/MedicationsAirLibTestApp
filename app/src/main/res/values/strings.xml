@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arlib Test</string>
+    <string name="login_screen_title">Login</string>
+    <string name="username_text_field_hint">Username</string>
+    <string name="password_text_field_hint">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="error_username_empty">Username field is empty</string>
+    <string name="error_password_empty">Password field is empty</string>
+    <string name="good_morning">Good Morning %s,</string>
+    <string name="good_afternoon">Good Afternoon %s,</string>
+    <string name="good_evening">Good Evening %s,</string>
+    <string name="strength">Strength:</string>
+    <string name="dose">Dose:</string>
+</resources>
